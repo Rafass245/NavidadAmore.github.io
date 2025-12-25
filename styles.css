@@ -13,8 +13,8 @@ body{
 
 /* card-n */
 .card-n {
-    width: 300px;
-    height: 400px;
+    width: 100px;
+    height: 100px;
     margin: 0 auto;
     position: relative;
     perspective: 1400px;
